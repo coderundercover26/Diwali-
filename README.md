@@ -20,7 +20,7 @@ CSS3
 
 JavaScript
 
-🌟 Preview
+🌟 Preview : https://anirbanchattaraj.github.io/Diwali-/
 
 The page displays:
 
