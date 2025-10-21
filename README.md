@@ -12,15 +12,9 @@ This is a simple HTML, CSS, and JavaScript project that displays a Diwali greeti
 
 🎨 Fully responsive and beginner-friendly
 
-🛠️ Technologies Used:
 
-HTML5
 
-CSS3
 
-JavaScript
-
-🌟 Preview : https://anirbanchattaraj.github.io/Diwali-/
 
 The page displays:
 
